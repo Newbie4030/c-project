@@ -1,6 +1,6 @@
 #include <stdio.h>
 void biggest3()
-{
+{  
     int num1, num2, num3;
     printf(" Enter the number1 = ");
     scanf("%d", &num1);
