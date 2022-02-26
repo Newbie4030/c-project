@@ -12,7 +12,7 @@ void biggest3()
     {
         if (num1 > num3)
         {
-            printf("\n Largest number = %d \n",num1);
+            printf("\n Largest number among 3 numbers is = %d \n",num1);
         }
         else
         {
