@@ -18,7 +18,7 @@ void biggest3()
         {
             printf("\n Largest number = %d \n",num3);
         }
-        #hello
+        
     }
     else if (num2 > num3)
     {
