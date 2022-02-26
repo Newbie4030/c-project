@@ -10,7 +10,7 @@ void biggest3()
     scanf("%d", &num3);
     if (num1 > num2)
     {
-        if (num1 > num3)
+        if (num1 > num3)  
         {
             printf("\n Largest number among 3 numbers is = %d \n",num1);
         }
