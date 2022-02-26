@@ -6,7 +6,7 @@ void biggest3()
     scanf("%d", &num1);
     printf("\n Enter the number2 = ");
     scanf("%d", &num2);
-    printf("\n Enter the number3 = ");
+    printf("\n Enter the number3 = ");  
     scanf("%d", &num3);
     if (num1 > num2)   
     {
