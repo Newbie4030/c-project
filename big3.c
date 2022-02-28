@@ -8,7 +8,7 @@ void biggest3()
     scanf("%d", &num2);
     printf("\n Enter the number3 = ");  
     scanf("%d", &num3);
-    if (num1 > num2)   
+    if (num1 > num2)     
     {
         if (num1 > num3)  
         {
