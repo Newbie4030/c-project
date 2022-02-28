@@ -26,7 +26,7 @@ void biggest3()
     }
     else
     {
-        printf("\n Largest number = %d \n",num3);
+        printf("\n Largest number = %d \n",num3);   
     }
     
 }
