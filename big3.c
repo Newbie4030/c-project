@@ -4,7 +4,7 @@ void biggest3()
     int num1, num2, num3;
     printf(" Enter the number1 = ");   
     scanf("%d", &num1);
-    printf("\n Enter the number2 = ");
+    printf("\n Enter the number2 = ");  
     scanf("%d", &num2);
     printf("\n Enter the number3 = ");  
     scanf("%d", &num3);
